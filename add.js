@@ -1,4 +1,4 @@
-var ten = 10;
-var five = 5;
+let ten = 10;
+let five = 5;
 
 console.log(`${ten} and ${five}`);
